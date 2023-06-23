@@ -2,4 +2,4 @@
 
 Here, you can find relevant datasets that you can try on ML Studio. 
 
-Click [here] to sign up for a free trial.
+Click [here](mlstudio.aigoritma.com) to sign up for a free trial.
